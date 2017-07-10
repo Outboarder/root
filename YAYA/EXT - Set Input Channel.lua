@@ -3,7 +3,7 @@
 @version 1.0
 @author Outboarder
 @metapackage
-@provides
+@provides 
 
 [main] . > EXT - Set Input Channel (Mono)(1).lua
 [main] . > EXT - Set Input Channel (Mono)(2).lua
