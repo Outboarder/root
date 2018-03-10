@@ -1,6 +1,17 @@
 --[[
-Author: Outboarder
+@description Set Input Channel (Mono)
+Screenshot:
 Version: 1.0
+Author: Outboarder
+Changelog:
+REAPER: 5.32
+Licence: GPL v3
+
+--]]
+
+--[[
+Changelog:
++ Initial Release v1.0 (2017-06-02)
 --]]
 
 
