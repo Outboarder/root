@@ -1,3 +1,10 @@
+--[[
+Author: Outboarder
+Version: 1.0
+--]]
+
+
+
 local filename = ({reaper.get_action_context()})[2]
 Input_Mono = tonumber(filename:match("%((%d+)%).lua$"))
 

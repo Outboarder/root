@@ -1,17 +1,26 @@
 --[[
 @description Set Input Channel (Mono)
-@version 1.0
-@author Outboarder
-@metapackage
-@provides 
+Screenshot:
+Version: 1.0
+Author: Outboarder
+Changelog:
+REAPER: 5.32
+Licence: GPL v3
 
 [main] . > EXT - Set Input Channel (Mono)(1).lua
 [main] . > EXT - Set Input Channel (Mono)(2).lua
 [main] . > EXT - Set Input Channel (Mono)(3).lua
 [main] . > EXT - Set Input Channel (Mono)(4).lua
 [main] . > EXT - Set Input Channel (Mono)(5).lua
+[main] . > EXT - Set Input Channel (Mono)(6).lua
 
 --]]
+
+--[[
+Changelog:
++ Initial Release v1.0 (2017-06-02)
+--]]
+
 --ssssssss
 local filename = ({reaper.get_action_context()})[2]
 Input_Mono = tonumber(filename:match("%((%d+)%).lua$"))
