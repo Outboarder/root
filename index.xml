@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="OTB Scripts">
+<index version="1" name="OTB Scripts" commit="e37b236ea5bc31ce85d18cff1b65c0c590ba5bac">
+  <category name="YAYA">
+    <reapack name="EXT - Set Input Channel (Mono)(1).lua" type="script">
+      <version name="1.0" author="Outboarder" time="2018-03-10T14:35:22Z">
+        <source main="main">https://github.com/Outboarder/root/raw/e37b236ea5bc31ce85d18cff1b65c0c590ba5bac/YAYA/EXT%20-%20Set%20Input%20Channel%20(Mono)(1).lua</source>
+      </version>
+    </reapack>
+    <reapack name="EXT - Set Input Channel (Mono)(2).lua" type="script">
+      <version name="1.0" author="Outboarder" time="2018-03-10T14:35:22Z">
+        <source main="main">https://github.com/Outboarder/root/raw/e37b236ea5bc31ce85d18cff1b65c0c590ba5bac/YAYA/EXT%20-%20Set%20Input%20Channel%20(Mono)(2).lua</source>
+      </version>
+    </reapack>
+    <reapack name="EXT - Set Input Channel (Mono)(3).lua" type="script">
+      <version name="1.0" author="Outboarder" time="2018-03-10T14:35:22Z">
+        <source main="main">https://github.com/Outboarder/root/raw/e37b236ea5bc31ce85d18cff1b65c0c590ba5bac/YAYA/EXT%20-%20Set%20Input%20Channel%20(Mono)(3).lua</source>
+      </version>
+    </reapack>
+    <reapack name="EXT - Set Input Channel (Mono)(4).lua" type="script">
+      <version name="1.0" author="Outboarder" time="2018-03-10T14:35:22Z">
+        <source main="main">https://github.com/Outboarder/root/raw/e37b236ea5bc31ce85d18cff1b65c0c590ba5bac/YAYA/EXT%20-%20Set%20Input%20Channel%20(Mono)(4).lua</source>
+      </version>
+    </reapack>
+    <reapack name="EXT - Set Input Channel (Mono)(5).lua" type="script">
+      <version name="1.0" author="Outboarder" time="2018-03-10T14:35:22Z">
+        <source main="main">https://github.com/Outboarder/root/raw/e37b236ea5bc31ce85d18cff1b65c0c590ba5bac/YAYA/EXT%20-%20Set%20Input%20Channel%20(Mono)(5).lua</source>
+      </version>
+    </reapack>
+    <reapack name="EXT - Set Input Channel (Mono)(6).lua" type="script">
+      <version name="1.0" author="Outboarder" time="2018-03-10T14:35:22Z">
+        <source main="main">https://github.com/Outboarder/root/raw/e37b236ea5bc31ce85d18cff1b65c0c590ba5bac/YAYA/EXT%20-%20Set%20Input%20Channel%20(Mono)(6).lua</source>
+      </version>
+    </reapack>
+    <reapack name="EXT - Set Input Channel.lua" type="script" desc="Set Input Channel (Mono)">
+      <version name="1.0" author="Outboarder" time="2018-03-10T14:35:22Z">
+        <source main="main">https://github.com/Outboarder/root/raw/e37b236ea5bc31ce85d18cff1b65c0c590ba5bac/YAYA/EXT%20-%20Set%20Input%20Channel.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Insert Marker a.lua" type="script" desc="Insert Marker Instructions:">
+      <version name="1.0" author="Outboarder" time="2018-03-10T14:35:22Z">
+        <source main="main">https://github.com/Outboarder/root/raw/e37b236ea5bc31ce85d18cff1b65c0c590ba5bac/YAYA/Outboarder%20-%20Insert%20Marker%20a.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
