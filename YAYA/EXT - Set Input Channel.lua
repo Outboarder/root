@@ -12,7 +12,7 @@
 [main] . > EXT - Set Input Channel (Mono)(5).lua
 
 --]]
-
+--ssssssss
 local filename = ({reaper.get_action_context()})[2]
 Input_Mono = tonumber(filename:match("%((%d+)%).lua$"))
 
