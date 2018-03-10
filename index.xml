@@ -48,7 +48,8 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 root\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Hello ffff\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 reapack-index --about=README.md\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab \b \fs20 Reapack Repository Link https://github.com/Outboarder/root/raw/master/index.xml\sa180\par}
 }
 ]]></description>
   </metadata>
